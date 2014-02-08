@@ -1,7 +1,7 @@
 Dragon.py
 =========
 
-A dragon pay client.
+A Dragonpay client.
 
 
 Usage
